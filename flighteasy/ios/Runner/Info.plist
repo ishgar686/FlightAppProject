@@ -57,8 +57,7 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.googleusercontent.apps.761481387472-k6n9pt346ftfh8lm4cfpjfd9gvjm98h6.apps.googleusercontent.com</string>
-				<string></string>
+				<string>com.googleusercontent.apps.761481387472-k6n9pt346ftfh8lm4cfpjfd9gvjm98h6</string>
 			</array>
 		</dict>
 	</array>
