@@ -67,5 +67,11 @@
 	<string>We need photo library access to allow you to upload your profile picture.</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>We need microphone access for capturing videos.</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string></string>
+	</array>
+	<key>LSApplicationCategoryType</key>
+	<string>Mailto</string>
 </dict>
 </plist>
