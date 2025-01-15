@@ -61,5 +61,11 @@
 			</array>
 		</dict>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>We need camera access to allow you to upload your profile picture.</string>
+	<key>NSPhotoLibraryUsageDescriptions</key>
+	<string>We need photo library access to allow you to upload your profile picture.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>We need microphone access for capturing videos.</string>
 </dict>
 </plist>
